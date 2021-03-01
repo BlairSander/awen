@@ -6,7 +6,7 @@ layout: default
 
 <dt>País actual</dt>  <dd>Blair</dd>
 <dt>Alojamiento</dt>  <dd> 
-[➊](https://drive.google.com/drive/folders/1lQ5Q7cJ447SbeXjEh4PxoVSI96ax5OFN) 1. Apartamento Blair 2. Mansión Cali Blair 3. Casa Barrio bajo Blair. 4. Mansión Blair 5. Casa Midsommar  </dd>
+[➊](https://sta.sh/21g4am29a467?edit=1) 1. Apartamento Blair 2. Mansión Cali Blair 3. Casa Barrio bajo Blair. 4. Mansión Blair 5. Casa Midsommar  </dd>
 <dt>Estado civil</dt>  <dd>Soltero</dd>
 <dt>Ocupación</dt>  <dd>Jugador de hockey profesional</dd>
 <dt>Ingreso mensual</dt>  <dd>2.9M anuales</dd>
