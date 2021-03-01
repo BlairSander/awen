@@ -7,34 +7,34 @@
 </tr>
 <tr>
 <td style="text-align:right" width="30%"> piel </td>
-<td width="10%">#faeae9</td>
-<td width="10%" bgcolor="#faeae9"></td>
-<td width="10%" bgcolor="#969bc4"></td>
-<td width="10%"> #969bc4 </td>
+<td width="10%">#fcda94</td>
+<td width="10%" bgcolor="#fcda94"></td>
+<td width="10%" bgcolor="#d68f59"></td>
+<td width="10%"> ##d68f59 </td>
 <td width="30%" > sombra piel </td>
 </tr>
 <tr>
 <td style="text-align:right" width="30%"> ojos </td>
-<td width="10%">#000000 </td>
-<td width="10%" bgcolor="#000000 "></td>
-<td width="10%" bgcolor="#36f8f8"></td>
-<td width="10%">#36f8f8</td>
-<td width="30%" >Brillo ojos </td>
+<td width="10%">#b219c1 </td>
+<td width="10%" bgcolor="#b219c1 "></td>
+<td width="10%" bgcolor="#760977"></td>
+<td width="10%">#760977</td>
+<td width="30%" >Sombra ojos </td>
 </tr>
 <tr>
 <td style="text-align:right" width="30%"> cabello </td>
-<td width="10%">#0d111e</td>
-<td width="10%" bgcolor="#0d111e"></td>
-<td width="10%" bgcolor="#518a90"></td>
-<td width="10%">#518a90</td>
-<td width="30%" >brillo cabello </td>
+<td width="10%">#f6b40</td>
+<td width="10%" bgcolor="#f6b40"></td>
+<td width="10%" bgcolor="#ec930b"></td>
+<td width="10%">#ec930b</td>
+<td width="30%" >sombra cabello </td>
 </tr>
 <tr>
 <td style="text-align:right" width="30%"> lengua </td>
-<td width="10%">#8cc6f6</td>
-<td width="10%" bgcolor="#8cc6f6"></td>
-<td width="10%" bgcolor="#688db4"></td>
-<td width="10%">#688db4</td>
+<td width="10%">#f4a4a5</td>
+<td width="10%" bgcolor="#f4a4a5"></td>
+<td width="10%" bgcolor="#da5f60"></td>
+<td width="10%">#da5f60</td>
 <td width="30%" >interior boca </td>
 </tr>
 </table>
