@@ -1,4 +1,4 @@
 ---
 layout: default
 ---
-####  ▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰ <br>_**✦ Nombre:** Glaze Ferrec <br> **✦ Pronunciación:** Glase<br> **✦ Significado:** "Vidrioso, Translúcido”<br> **✦ Edad:** 20 <br> **✦ Especie:** Gijinka de hielo <br> **✦ Bruja:** Jafet <br> **✦ Demonio:** Durian <br> **✦ Género:** Hombre <br> **✦ Cumpleaños:** 12 de Junio <br> **✦ Zodíaco:** Geminis <br> **✦ Lugar de Nacimiento:** Blair_ <br>▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰
+####  ▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰ <br>_**✦ Nombre:** Awen Aramis <br> **✦ Pronunciación:** Auen<br> **✦ Significado:** "Inspiración"<br> **✦ Edad:** 28 <br> **✦ Especie:** Serkei Lexvoay <br> **✦ Género:** No binario <br> **✦ Cumpleaños:** 30 de Noviembre <br> **✦ Zodíaco:** Sagitario <br> **✦ Lugar de Nacimiento:** Blair_ <br>▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰
