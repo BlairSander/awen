@@ -3,9 +3,9 @@ layout: default
 ---
 ## Dieta
 
-Es omnívoro. Su hábito alimenticio se basa en carnes, cereales y legumbres. El tipo de comidas que usualmente consume son **cereales de copos, pan integral, carnes rojas, helados y batidos.**
+Omnívoro. Su hábito alimenticio se basa generalmente en carnes rojas, panes y pastas. El tipo de comidas que usualmente consume es **Asado, Sanguche de bondiola, Papas fritas, Guiso casero y Bebidas energizantes o gaseosas.**
 
 
 |☕ DESAYUNO/MERIENDA | ♨ ALMUERZO/CENA | 
 |:----------------------|:------------------|
-| ✔ Smoothies <br>✔ Tostados con queso y fiambre <br>✔ Cereales con yogurt <br>✔ Chocolatada <br>✔ Bebidas isotónicas <br>✘ Cafe <br>✘ Mate cocido <br> | ✔ Sandwich de miga <br>✔ Picadas <br>✔ Omelette de jamón y queso  <br>✔ Pastas integrales en ensalada <br>✔ Torta helada de Oreo <br>✔ Pionono salado  <br>✔ Vitel Toné <br>✘ Sopas <br> ✘ Guisos | 
+| ✔ Mate/Terere <br>✔ Cafe <br>✔ Manaos <br>✔ Galletas surtidas <br>✘ Galletas integrales <br>Agua saborizada <br>✘ Jugo natural <br> | ✔ Asado (Carne de vaca) <br>✔ Guiso de Lentejas <br>✔ Panchos/Choripan  <br>✔ Torta fritas  <br>✔ Empanadas fritas <br>✘ Carne cruda/Sushi  <br>✘ Caviar | 
